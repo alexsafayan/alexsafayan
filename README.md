@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Alex Safayan
-- 📚 I'm a third year at Northwestern University studying computer science and math
-- 🖼 I've done 3D illustration and animation for Google, Pfizer, and Comcast
-- 💼 I've interned at Things, Meta, and Apple
-- 📫 Contact me - alex@safayan.com
+
